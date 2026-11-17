@@ -1,1 +1,1 @@
-# ubiquitous-guacamole
+# IS 477 project
